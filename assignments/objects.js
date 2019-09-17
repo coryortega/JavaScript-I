@@ -75,7 +75,7 @@ console.log(Kennan.id);
 
 console.log(Keven.email);
 
-// Gannie's name
+// Gannie's names
 
 console.log(Gannie.name);
 
